@@ -1,1 +1,3 @@
-# proj_blackjack
+# Najda Mateusz Robert
+
+Tematem mojego projektu będzie symulacja gry w Blackjacka. W kodzie powinna się znaleźć klasa Player, dziedzicząca po niej klasa Dealer oraz klasa Card. Ostatecznie krupier zachowuje się podobnie do gracza, ale obowiązuje go kilka dodatkowych zasad. Losowane będą oczywiście same karty, ilość początkowej gotówki oraz ilość gotówki którą gracz chce postawić. Funkcja main będzie odpowiadać za przebieg samej gry. Konieczne będzie stworzenie funkcji sprawdzających na przykład status gry, to czy gracz ma jeszcze pieniądze itp.. Gra będzie toczyć się w oparciu o zwyczajne zasady, czyli krupier na początku dobiera 2 karty, z czego jedna jest odkryta. Jeśli suma punktów krupiera wynosi 17 lub więcej nie może on dobierać kart, jeśli ma mniej musi dobrać kartę.
